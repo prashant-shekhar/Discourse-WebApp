@@ -1,5 +1,12 @@
 # Discourse-WebApp
 <strong>User login and logout along with registration for new. <br/>
+ ## Tech Stacks : 
+ <ul>
+  <li>Python</li>
+  <li>Django</li>
+  <li>HTML</li>
+  <li> CSS </li>
+ </ul>
  Users Interface to :
   <ul>
   <li>Create Post</li>
