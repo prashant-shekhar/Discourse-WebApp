@@ -11,10 +11,11 @@
  ## User Interface :
  
   <ul>
-  <li>Create Post</li>
-  <li>Publish Post</li>
-  <li>Edit Post</li>
-  <li>Delete Post</li>
+ <li>Registration/ SignUp Forum</li>
+ <li>LogIn and LogOut</li>
+  <li>Create, Edit and Delete Posts</li>
+ <li> Profile Settings</li>
+ <li> Likes and Comments on the Post</li>
 </ul>
 
 <ol>
