@@ -9,6 +9,22 @@
 </ul></strong>
 
 <ol>
- <li>Home Page :</li>
+ <li><b>Registeration :</b></li>
+ <p> To register in the Discourse WebApp user need to enter a unique Username, Email address and Password.
+  <img src="d.png" alt="Registration Page">
+ <li><b>Login Page :</b></li>
+  <p> User need to insert Username and Password to get into his Discouse Id.
+   <img src="e.png" alt="Login Page">
+ <li><b>Home Page</b> </li>
+ <p> The interface gives user a flexibility to Delete or Edit the previous Posts.</br> Also user can comment and like the posts.
  <img src="/media/a.png" alt="Home Page">
+ </br>
+ <li><b>Create New Post</b></li>
+ <p> User can easily post whatever he/she needs to share at the platform </p>
+ <img src="/media/b.png" alt="Post Section">
+ </br>
+ <li><b>Profile Settings</b></li>
+ <p> Profile setting is provided to edit your Name, Profile Picture and registered E-mail Id. </p> 
+ <img src="/media/c.png" alt="Edit Profile">
+ 
  </ol>
