@@ -7,4 +7,8 @@
   <li>Edit Post</li>
   <li>Delete Post</li>
 </ul></strong>
- 
+
+<ol>
+ <li>Home Page :</li>
+ <img src="/media/a.png" alt="Home Page">
+ </ol>
