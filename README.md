@@ -11,10 +11,10 @@
 <ol>
  <li><b>Registeration :</b></li>
  <p> To register in the Discourse WebApp user need to enter a unique Username, Email address and Password.
-  <img src="d.png" alt="Registration Page">
+  <img src="/media/d.png" alt="Registration Page">
  <li><b>Login Page :</b></li>
   <p> User need to insert Username and Password to get into his Discouse Id.
-   <img src="e.png" alt="Login Page">
+   <img src="/media/e.png" alt="Login Page">
  <li><b>Home Page</b> </li>
  <p> The interface gives user a flexibility to Delete or Edit the previous Posts.</br> Also user can comment and like the posts.
  <img src="/media/a.png" alt="Home Page">
